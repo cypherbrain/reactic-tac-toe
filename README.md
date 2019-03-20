@@ -9,8 +9,8 @@ tic-tac-toe game with it. I didn't use a tutorial for this (although I did use G
 
 Here's what it looks like:
 
-[Tic-Tac-Demo](https://github.com/cypherbrain/reactic-tac-toe/blob/master/repo_content/reactic.gif)
+[Tic-Tac-Demo](repo_content/reactic.gif)
 
 And it's responsive!
 
-[Tic-Tac-Demo-responsive](https://github.com/cypherbrain/reactic-tac-toe/blob/master/repo_content/reactic-responsive.gif)
+[Tic-Tac-Demo-responsive](repo_content/reactic-responsive.gif)
