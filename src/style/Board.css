@@ -1,0 +1,30 @@
+@media (min-width: 650px) {
+  .board {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    height: 100%;
+    width: 100%;
+    margin: 50px auto;
+  }
+
+  #resetButton {
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 649px) {
+  .board {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    height: 100%;
+    width: 100%;
+    margin: 30px auto;
+  }
+}
+
+.game {
+  height: 60%;
+  text-align: center;
+}

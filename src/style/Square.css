@@ -1,0 +1,58 @@
+.square {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 600%;
+  width: 1fr;
+}
+
+#square1 {
+  border-right: solid 1px;
+  border-bottom: solid 1px;
+}
+
+#square2 {
+  border-left: solid 1px;
+  border-right: solid 1px;
+  border-bottom: solid 1px;
+}
+
+#square3 {
+  border-left: solid 1px;
+  border-bottom: solid 1px;
+}
+
+#square4 {
+  border-top: solid 1px;
+  border-right: solid 1px;
+  border-bottom: solid 1px;
+}
+
+#square5 {
+  border-left: solid 1px;
+  border-top: solid 1px;
+  border-right: solid 1px;
+  border-bottom: solid 1px;
+}
+
+#square6 {
+  border-left: solid 1px;
+  border-top: solid 1px;
+  border-bottom: solid 1px;
+}
+
+#square7 {
+  border-top: solid 1px;
+  border-right: solid 1px;
+}
+
+#square8 {
+  border-left: solid 1px;
+  border-top: solid 1px;
+  border-right: solid 1px;
+}
+
+#square9 {
+  border-left: solid 1px;
+  border-top: solid 1px;
+}
